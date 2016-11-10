@@ -66,4 +66,4 @@ gulp.task('bulid',function(cb){
 });
 
 
-gulp.task('default',['bulid','mywatch','localhost']);
+gulp.task('default',['mywatch','localhost']);
